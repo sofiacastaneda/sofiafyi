@@ -12,10 +12,10 @@ this is where my amazing bio will go
 ____
 ## 
 >**Code | kōd |**
->*sustantivo, computación:*
+>*noun, computing:*
 >Program instructions. 
 
 ## 
 >**Mud | məd |**
->*sustantivo:*
+>*noun:*
 >Soft, sticky matter resulting from the mixing of earth and water. 
