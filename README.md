@@ -11,7 +11,11 @@ this is where my amazing bio will go
 
 ____
 ## 
->**U·ni·code | ˈyo͞onəˌkōd |**
+>**Code | kōd |**
 >*sustantivo, computación:*
->Estándar internacional de codificación para diferentes lenguajes, alfabetos y caracteres, mediante el cual cada letra, digito o símbolo es asignado a un valor numérico único que es aplicado a través de diferentes plataformas y programas. 
+>Program instructions. 
 
+## 
+>**Mud | məd |**
+>*sustantivo:*
+>Soft, sticky matter resulting from the mixing of earth and water. 
